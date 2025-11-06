@@ -2,21 +2,22 @@ cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio,idiomaCod,
 C1,Introducción a Python,Curso básico para aprender programación,Básico,2021,4.6,ESP,CA1
 C2,Análisis de Datos con R,Aprende análisis estadístico con R,Intermedio,2020,4.8,ESP,CA2
 C3,Marketing Digital,Conceptos clave de marketing en línea,Básico,2022,4.2,ESP,CA3
-C4,Machine Learning Avanzado,Técnicas avanzadas de aprendizaje automático,Avanzado,2023,4.9,ENG,CA2
+C4,Machine Learning Avanzado,Técnicas avanzadas de aprendizaje automático,Avanzado,2023,4.9,POR,CA2
 C5,Diseño UX/UI,Principios de diseño de interfaces de usuario,Intermedio,2021,4.5,ESP,CA4
 C6,SQL para Principiantes,Aprende consultas y gestión de bases de datos,Básico,2020,4.7,ESP,CA2
 C7,Programación en Java,Curso completo para aprender Java desde cero,Intermedio,2021,4.6,ESP,CA1
 C8,Desarrollo Web con HTML y CSS,Crea sitios web modernos y responsivos,Básico,2019,4.3,ESP,CA1
 C9,Fotografía Digital,Domina técnicas de composición y edición,Básico,2020,4.4,ESP,CA4
 C10,Excel Profesional,Análisis de datos y automatización con Excel,Intermedio,2022,4.7,ESP,CA2
-C11,Python para Ciencia de Datos,Uso de Python en análisis de datos y machine learning,Intermedio,2023,4.9,ENG,CA2
+C11,Python para Ciencia de Datos,Uso de Python en análisis de datos y machine learning,Intermedio,2023,4.9,POR,CA2
 C12,Redacción Publicitaria,Crea mensajes persuasivos para marcas,Básico,2021,4.2,ESP,CA3
 C13,Gestión de Proyectos,Planificación y ejecución de proyectos profesionales,Intermedio,2021,4.6,ESP,CA3
 C14,Estadística Aplicada,Conceptos esenciales de estadística práctica,Básico,2020,4.5,FRA,CA2
-C15,Photoshop Avanzado,Técnicas avanzadas de edición de imágenes,Avanzado,2023,4.8,ESP,CA4
+C15,Photoshop Avanzado,Técnicas avanzadas de edición de imágenes,Avanzado,2023,4.8,POR,CA4
 C16,Ciberseguridad,Protege sistemas y redes de ataques digitales,Intermedio,2022,4.7,ENG,CA1
 C17,Power BI desde Cero,Visualiza y analiza datos con Power BI,Básico,2021,4.6,FRA,CA2
 C18,Introducción al Machine Learning,Fundamentos del aprendizaje automático,Básico,2020,4.5,ESP,CA2
 C19,Diseño Gráfico con Illustrator,Domina la creación de gráficos vectoriales,Intermedio,2022,4.4,FRA,CA4
 C20,Estrategias de Negocio Digital,Desarrollo de estrategias de marketing online,Avanzado,2023,4.8,ENG,CA3
+
 
