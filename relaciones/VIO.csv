@@ -1,0 +1,9 @@
+usuarioId,leccionId,fecha,minutosReproducidos,finalizado
+U1,L1,2023-10-01,15,true
+U2,L2,2023-10-02,10,false
+U3,L3,2023-10-03,18,true
+U4,L4,2023-10-04,25,false
+U5,L1,2023-10-05,15,true
+U6,L2,2023-10-06,20,true
+U7,L3,2023-10-07,18,true
+U8,L4,2023-10-08,30,true

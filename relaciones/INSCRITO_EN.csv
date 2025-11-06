@@ -1,0 +1,7 @@
+usuarioId,cursoId,fechaInicio,fechaFin,progreso,estado
+U1,C1,2023-09-01,2023-10-01,100,Completado
+U2,C2,2023-09-15,,50,En progreso
+U3,C3,2023-08-20,2023-09-30,100,Completado
+U4,C4,2023-10-01,,25,En progreso
+U5,C1,2023-09-10,2023-10-05,100,Completado
+U6,C2,2023-09-20,,70,En progreso
