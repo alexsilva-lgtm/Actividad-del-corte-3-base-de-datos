@@ -1,0 +1,21 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento,paisCod
+U1,Lucas Torres,25,F,ana.torres@email.com,1999-03-14,PA1
+U2,Laura Mejía,30,M,carlos.mejia@email.com,1994-08-22,PA2
+U3,Luisa Gómez,27,F,luisa.gomez@email.com,1997-05-09,PA3
+U4,Juan Pérez,22,M,juan.perez@email.com,2002-11-10,PA4
+U5,Alex Rivera,28,Otro,alex.rivera@email.com,1996-01-05,PA5
+U6,María Fernández,35,F,maria.fernandez@email.com,1989-02-18,PA1
+U7,Pedro Sánchez,40,M,pedro.sanchez@email.com,1984-12-09,PA2
+U8,Laura Martínez,21,F,laura.martinez@email.com,2003-07-27,PA3
+U9,Diego López,24,M,diego.lopez@email.com,2000-04-16,PA4
+U10,Camila Ruiz,26,F,camila.ruiz@email.com,1998-09-10,PA5
+U11,Andrés Gutiérrez,33,M,andres.gutierrez@email.com,1991-11-22,PA1
+U12,Sofía Navarro,19,F,sofia.navarro@email.com,2005-05-03,PA2
+U13,Martín Castro,29,M,martin.castro@email.com,1995-06-19,PA3
+U14,Valentina Ortiz,23,F,valentina.ortiz@email.com,2001-08-12,PA4
+U15,Samuel Rojas,31,M,samuel.rojas@email.com,1993-10-25,PA5
+U16,Isabella Gómez,20,F,isabella.gomez@email.com,2004-02-07,PA1
+U17,Fernando Díaz,27,M,fernando.diaz@email.com,1997-06-14,PA2
+U18,Daniela López,32,F,daniela.lopez@email.com,1992-01-30,PA3
+U19,Roberto Álvarez,38,M,roberto.alvarez@email.com,1986-04-22,PA4
+U20,Patricia Vega,24,F,patricia.vega@email.com,2000-09-19,PA5

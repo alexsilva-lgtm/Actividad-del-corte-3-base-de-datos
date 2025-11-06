@@ -1,0 +1,5 @@
+leccionId,titulo,descripcion,duracionMin,numero,moduloId
+L1,Variables y Tipos de Datos,Conceptos básicos de Python,15,1,M1
+L2,Condicionales y Bucles,Estructuras de control en Python,20,2,M1
+L3,Primeros pasos con R,Introducción al entorno de R,18,1,M3
+L4,Regresión Lineal,Técnica básica de Machine Learning,30,1,M4
