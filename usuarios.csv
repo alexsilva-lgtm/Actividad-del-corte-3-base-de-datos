@@ -1,0 +1,16 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento,paisCodigo
+1,Ana Torres,25,F,ana.torres@email.com,1999-03-14,COL
+2,Carlos Mejía,30,M,carlos.mejia@email.com,1994-08-22,MEX
+3,Luisa Gómez,27,F,luisa.gomez@email.com,1997-05-09,ARG
+4,Juan Pérez,22,M,juan.perez@email.com,2002-11-10,PER
+5,Alex Rivera,28,Otro,alex.rivera@email.com,1996-01-05,ESP
+6,María Fernández,35,F,maria.fernandez@email.com,1989-02-18,COL
+7,Pedro Sánchez,40,M,pedro.sanchez@email.com,1984-12-09,MEX
+8,Laura Martínez,21,F,laura.martinez@email.com,2003-07-27,ARG
+9,Diego López,24,M,diego.lopez@email.com,2000-04-16,PER
+10,Camila Ruiz,26,F,camila.ruiz@email.com,1998-09-10,ESP
+11,Andrés Gutiérrez,33,M,andres.gutierrez@email.com,1991-11-22,COL
+12,Sofía Navarro,19,F,sofia.navarro@email.com,2005-05-03,MEX
+13,Martín Castro,29,M,martin.castro@email.com,1995-06-19,ARG
+14,Valentina Ortiz,23,F,valentina.ortiz@email.com,2001-08-12,PER
+15,Samuel Rojas,31,M,samuel.rojas@email.com,1993-10-25,ESP
